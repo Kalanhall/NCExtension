@@ -1,0 +1,6 @@
+framework module NCExtension {
+  umbrella header "NCExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}

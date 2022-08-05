@@ -1,0 +1,16 @@
+PODS:
+  - NCExtension (1.0.0)
+
+DEPENDENCIES:
+  - NCExtension (from `../`)
+
+EXTERNAL SOURCES:
+  NCExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NCExtension: d204ffeadbadec23fed1b41e58174faa516b9b28
+
+PODFILE CHECKSUM: cf3fac9e26325306972799fccb1dbdffddaad624
+
+COCOAPODS: 1.11.2
